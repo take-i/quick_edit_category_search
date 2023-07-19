@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Quick Edit Category Search
-Plugin URI: https://hack.gpl.jp/
+Plugin URI: https://github.com/take-i/quick_edit_category_search
 Description: This plugin adds a category search in the Quick Edit menu.
-Version: 1.0
+Version: 1.0.0
 Author: Ishizaka Takehiko
 Author URI: https://hack.gpl.jp/
 License: GPLv2 or later
